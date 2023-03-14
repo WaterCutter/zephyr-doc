@@ -146,7 +146,7 @@
 |  示例           |    传感器         | TH02                       |                                             |      |
 |  示例           |    Grove Kit      | Grove LCD                  |                                             |      |
 |  示例           |    Advanced       | Environmental Sensing      |                                             |      |
-|  示例           |    电源管理       | 电源管理                   |                                             |      |
+|  示例           |    电源管理       | 电源管理                   | [WaterCutter](https://github.com/WaterCutter)                                            | 领取      |
 |  配置选项       |      -            |                  -       |  [tidyjiang8](https://github.com/tidyjiang8)  |  完成     |
 |  贡献代码       |      -            |                -           |  [tidyjiang8](https://github.com/tidyjiang8)|  完成     |
 |  词汇表         |      -            |   -                        |  [tidyjiang8](https://github.com/tidyjiang8)|  完成     |  
